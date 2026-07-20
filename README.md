@@ -8,7 +8,7 @@ I am a Computer Science and Engineering undergraduate at M S Ramaiah Institute o
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | C, C++, Java, SQL |
+| **Languages** | C, C++, Java, SQL, Python |
 | **Web & Database** | HTML5, CSS3, MySQL, MongoDB |
 | **Tools** | Git, GitHub, VS Code |
 
